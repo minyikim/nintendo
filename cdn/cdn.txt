@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'LABBalkiri';
+  src: url('../LABBalkiri/font.css');
+  src: url('../LABBalkiri/LABBalkiri.svg'); format('svg');
+  src: url('../LABBalkiri/LABBalkiri.ttf'); format('ttf');
+  src: url('../LABBalkiri/LABBalkiri.woff'); format('woff');
+  src: url('../LABBalkiri/LABBalkiri_Regular.eot'); format('eot');
+  src: url('../LABBalkiri/LABBalkiri_Regular.woff2'); format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
